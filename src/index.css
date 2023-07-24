@@ -1,13 +1,42 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+body{
+    color: white;    /* aliceblue */
+    background-color: #222;
+    font-family: "Quicksand",sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.dark-bg {
+    background-color: #1f1f1f;
+}
+
+.social i{
+    font-size: 24px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgba(255, 255, 255, 0.749);
+}
+
+.text-white{
+    font-size: 20px;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 10px; 
+    background-color: #222 !important;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #32373a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #90A4AE;
 }

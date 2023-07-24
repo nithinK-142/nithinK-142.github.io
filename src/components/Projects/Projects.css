@@ -1,0 +1,18 @@
+.work-inquiry, .workshop-bg-1 {
+    background-color: hsla(0,0%,100%,.9);
+    color: #000;
+    border-radius: 16px;
+}
+.workshop-bg-2 {
+    background-color: #f06d55;
+    border-radius: 16px;
+}
+
+.container h2 img{
+    height: 30px !important;
+    margin-bottom: 4px !important;
+}
+
+.project{
+    font-size: 24px !important;
+}

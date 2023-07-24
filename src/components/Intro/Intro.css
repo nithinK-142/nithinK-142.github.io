@@ -1,0 +1,41 @@
+h1,h2{
+    font-weight: 700;
+} 
+
+h1 {
+    font-size: 6em;
+    line-height: 90px;
+    font-family: "Quicksand",sans-serif;
+}
+
+.social{
+    font-size: 24px;
+}
+
+.fa-linkedin:hover,
+.fa-github:hover,
+.fa-instagram:hover,
+.fa-twitter:hover,
+.fa-envelope:hover {
+    color: #df452a;
+}
+
+.custom-button, button {
+    background-color: #f05f45;
+    /* background-color: rgb(149, 34, 13); */
+    border: none;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 6px;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 992px){
+    .hero-sec .social {
+        justify-content: center;
+    }
+    .custom-button{
+        margin-right: .8rem;
+    }
+}
+
