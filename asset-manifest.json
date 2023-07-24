@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nithinK-142.github.io/static/css/main.ca5f823a.css",
+    "main.js": "/nithinK-142.github.io/static/js/main.713684e4.js",
+    "static/js/787.d81a0224.chunk.js": "/nithinK-142.github.io/static/js/787.d81a0224.chunk.js",
+    "static/media/user.png": "/nithinK-142.github.io/static/media/user.0cb085aa7c05ea2fb8a6.png",
+    "static/media/nasa.svg": "/nithinK-142.github.io/static/media/nasa.35bf273468c3348c1385e4e80a03ad98.svg",
+    "static/media/tmdb.svg": "/nithinK-142.github.io/static/media/tmdb.bb8aa703cb92c9aa31fc1e0b17850ed9.svg",
+    "index.html": "/nithinK-142.github.io/index.html",
+    "main.ca5f823a.css.map": "/nithinK-142.github.io/static/css/main.ca5f823a.css.map",
+    "main.713684e4.js.map": "/nithinK-142.github.io/static/js/main.713684e4.js.map",
+    "787.d81a0224.chunk.js.map": "/nithinK-142.github.io/static/js/787.d81a0224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca5f823a.css",
+    "static/js/main.713684e4.js"
+  ]
+}
