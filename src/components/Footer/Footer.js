@@ -40,7 +40,7 @@ function Footer() {
                     </a>
                 </div>
             </div>
-            <p className="mt-4 mb-0 me-4">Copyright &copy; 2023 All Righs Reserved.</p>
+            <p className="mt-4 mb-0 me-3 copyright">Copyright &copy; 2023 All Righs Reserved.</p>
         </div>
     </section>
   );

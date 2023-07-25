@@ -1,3 +1,9 @@
 .footer .social {
     justify-content: center;
 }
+
+@media (max-width: 425px){
+    .copyright{
+        margin-right: 0 !important;
+    }
+}
