@@ -7,9 +7,9 @@ function Intro() {
   return (
     <section className="container py-5 my-md-5">
         <div className="d-flex flex-wrap justify-content-center align-items-center hero-sec">
-        <div className="col-md-7 col-10 d-lg-none d-block pb-4">
-            <img src={user} alt="Nithin K" class="avatar w-100"/>
-        </div>
+            <div className="col-md-7 col-10 d-lg-none d-block pb-4">
+                <img src={user} alt="Nithin K" class="avatar w-100"/>
+            </div>
             <div className="col-lg-6 col-12 px-3 text-lg-start text-center">
                 <h1 className="pb-2">NITHIN</h1>
                 <p className="m-0">
