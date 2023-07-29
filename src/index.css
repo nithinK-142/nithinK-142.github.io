@@ -34,9 +34,9 @@ a:hover{
 
 ::-webkit-scrollbar-thumb {
     border-radius: 10px;
-    background: #32373a;
+    background: #90A4AE;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #90A4AE;
+    background: #32373a;
 }
